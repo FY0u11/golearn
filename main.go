@@ -1,7 +1,7 @@
-package xfv
+package main
 
 import "fmt"
 
-func Do() {
+func main() {
 	fmt.Println("Hello World")
 }
