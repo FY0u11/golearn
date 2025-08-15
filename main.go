@@ -1,7 +1,7 @@
-package main
+package test
 
 import "fmt"
 
-func main() {
+func do() {
 	fmt.Println("Hello World")
 }
